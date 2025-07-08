@@ -1,5 +1,6 @@
 # Faxsmp Güncelleme Geçmişi
 ==================================
+
 -# Powered By Lanux
 
 [07.07.2025]
